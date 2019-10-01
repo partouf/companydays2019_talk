@@ -1,6 +1,6 @@
 <div class="slidetext-bg">
 
-### It's a trap
+### It's a trap!
 
 ```js
 let experiment;
