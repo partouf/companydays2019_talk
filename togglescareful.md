@@ -3,13 +3,13 @@
 ### It's a trap!
 
 ```js
-let experiment;
-if (unleash.isEnabled('experimental'))
-  experiment = new Experiment();
+let ds;
+if (unleash.isEnabled('ds.fullyoperational'))
+  ds = new Deathstar();
 
 // ...
 
-experiment.DoCalculation;
+ds.Attack("Rebel fleet");
 ```
 
 </div>
