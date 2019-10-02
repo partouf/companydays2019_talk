@@ -1,10 +1,12 @@
 <div class="slidetext-bg">
 
-### Modern RPC?
+### Remote Procedure Call
 
-* REST <!-- .element: class="fragment" -->
-* SOAP <!-- .element: class="fragment" -->
-* OLE/COM/DCOM <!-- .element: class="fragment" -->
-* CORBA <!-- .element: class="fragment" -->
+* Nothing new <!-- .element: class="fragment" -->
+* But why? <!-- .element: class="fragment" -->
+* The hard parts: <!-- .element: class="fragment" -->
+  * Calling medium <!-- .element: class="fragment" -->
+  * Marshalling/Unmarshalling data <!-- .element: class="fragment" -->
+  * Keeping everything up-to-date <!-- .element: class="fragment" -->
 
 </div>
