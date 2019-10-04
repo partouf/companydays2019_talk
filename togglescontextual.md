@@ -2,6 +2,8 @@
 
 ### Context, matters?
 
+<div class="fragment">
+
 ```js
 unleash.isEnabled('feature', {"myoption": this.GetSelectedOption()});
 ```
@@ -12,5 +14,7 @@ Context.customParam := GetSelectedOption;
 
 Unleash.IsEnabled('feature', Context);
 ```
+
+</div>
 
 </div>

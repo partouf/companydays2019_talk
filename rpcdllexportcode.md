@@ -2,6 +2,8 @@
 
 ### Just DLL it
 
+<div class="fragment">
+
 ```c#
 namespace csharpdll {
     public class Main {
@@ -18,8 +20,13 @@ namespace csharpdll {
 }}
 ```
 
+</div>
+
+<div class="fragment">
+
 ```pascal
 function ShowSharpMesssage(const Text: PChar): Int32; stdcall; external 'csharpdll.dll';
 ```
+</div>
 
 </div>

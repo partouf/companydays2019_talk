@@ -2,6 +2,8 @@
 
 ### WM_ - Wild Messages
 
+<div class="fragment">
+
 ```pascal
 procedure OpenDotNetWindow;
 begin
@@ -9,6 +11,10 @@ begin
   SendMessage(Handle, WM_USER + 1, 0, 0);
 end;
 ```
+
+</div>
+
+<div class="fragment">
 
 ```c#
 public partial class DelphiListener : Window {
@@ -50,5 +56,7 @@ public partial class DelphiListener : Window {
     }
 }
 ```
+
+</div>
 
 </div>

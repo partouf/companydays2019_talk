@@ -2,6 +2,8 @@
 
 ### It's a trap!
 
+<div class="fragment">
+
 ```js
 let ds;
 if (unleash.isEnabled('ds.fullyoperational'))
@@ -11,5 +13,7 @@ if (unleash.isEnabled('ds.fullyoperational'))
 
 ds.Attack("Rebel fleet");
 ```
+
+</div>
 
 </div>

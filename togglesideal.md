@@ -4,6 +4,8 @@
 
 <img src="images/newtoggle.png" alt="Image of feature toggle enabled" align="middle" />
 
+<div class="fragment">
+
 ```pascal
 class procedure TfrmMain.Printscreen;
 begin
@@ -13,5 +15,7 @@ begin
     OldBrokenPrintscreen;
 end;
 ```
+
+</div>
 
 </div>
